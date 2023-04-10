@@ -1,0 +1,23 @@
+.loginContainer {
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.24);
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.24);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.24);
+  border-radius: 8px;
+  padding: 25px;
+  margin-top: 50%;
+  min-width: 300px;
+}
+.ant-input-affix-wrapper {
+  padding: 8px 12px;
+}
+.ant-btn {
+  width: 100%;
+}
+.ant-form-item-control-input-content {
+  display: flex;
+  justify-content: space-between;
+}
+.notRegistered span {
+  color: rgba(0, 0, 0, 0.88);
+  font-weight: normal;
+}
